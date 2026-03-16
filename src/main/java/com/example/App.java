@@ -10,7 +10,7 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "Hello DevOps CI/CD working!";
+        return "Hello MOM";
     }
 
     public static void main(String[] args) {
